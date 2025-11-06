@@ -1,0 +1,1 @@
+C:\Users\User\.local\bin\uv.exe add  ultralytics 

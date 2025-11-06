@@ -1,0 +1,10 @@
+[project]
+name = "steamlit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "streamlit>=1.51.0",
+    "ultralytics>=8.3.225",
+]
