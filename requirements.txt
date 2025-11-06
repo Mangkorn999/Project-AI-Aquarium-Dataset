@@ -2,7 +2,10 @@ streamlit==1.39.0
 ultralytics==8.3.23
 torch==2.4.1
 torchvision==0.19.1
-Pillow
 matplotlib
-opencv-python-headless==4.10.0.84
+Pillow
+numpy
 pyglet
+imageio[ffmpeg]
+# Force OpenCV headless only
+opencv-python-headless==4.10.0.84
